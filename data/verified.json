@@ -1,0 +1,47 @@
+[
+ {
+  "name": "Postiz",
+  "cat": "社媒排期",
+  "mrr": "$243,308",
+  "team": "1人",
+  "src": "TrustMRR/Stripe",
+  "ev": "A",
+  "stars": 36745
+ },
+ {
+  "name": "LLM Gateway",
+  "cat": "AI网关",
+  "mrr": "$78,764",
+  "team": "2人",
+  "src": "TrustMRR/Stripe",
+  "ev": "A",
+  "stars": 1672
+ },
+ {
+  "name": "Rybbit",
+  "cat": "网站分析",
+  "mrr": "$9,036",
+  "team": "1人",
+  "src": "TrustMRR/Stripe",
+  "ev": "A",
+  "stars": 13098
+ },
+ {
+  "name": "OpenAlternative",
+  "cat": "开源替代目录",
+  "mrr": "$5,986",
+  "team": "1人",
+  "src": "TrustMRR/Stripe",
+  "ev": "A",
+  "stars": 6769
+ },
+ {
+  "name": "Hypit-AI",
+  "cat": "AI应用",
+  "mrr": "$14,472",
+  "team": "深圳",
+  "src": "TrustMRR/Stripe",
+  "ev": "A",
+  "stars": null
+ }
+]
